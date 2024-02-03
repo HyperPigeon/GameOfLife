@@ -1,4 +1,4 @@
-# Conway's Game of Life w/ C# + Avalonia
+# Conway's Game of Life
 
 An implementation of Conway's Game of Life in C# and Avalonia. 
 
